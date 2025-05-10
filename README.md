@@ -23,6 +23,8 @@ ctrlcat0x
 🎵 Love anything I can listen to on repeat for days
 ⚡ Love ketchup (but not on pasta) 🍅
 💕 Anime, Linux ricing, Cats
+
+---------------------------------------------
 ```
 ```
 CATching bugs in code...
