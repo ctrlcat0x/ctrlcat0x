@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/ctrlcat0x/ctrlcat0x/blob/main/cover.png" />
-</p>
-
 ```console
 ctrlcat0x@github:~$ ./welcome.sh
 ```
